@@ -1,5 +1,4 @@
-Create a Scrapy spider, that takes an arbitrary single product URL from www.target.com as command line argument, 
-e.g. scrapy crawl target -a url=...
+Create a Scrapy spider, that takes an arbitrary single product URL from www.target.com
 
 Sample URLs - 
 https://www.target.com/p/-/A-81260450
